@@ -274,8 +274,10 @@ fun main() {
     println(intervalInSeconds(minutes = 10))
     println(intervalInSeconds(hours = 1, seconds = 1))
 }
+```
 {% endcapture %}
 {% include collapse_quote.html title="解答例" body=kotlin-tour-functions-solution-3 %}
+
 
 ## ラムダ式
 
